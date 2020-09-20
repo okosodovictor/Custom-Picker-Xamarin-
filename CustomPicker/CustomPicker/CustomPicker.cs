@@ -7,7 +7,7 @@ namespace CustomPicker
 {
     public class CustomPicker:Picker
     {
-		//addded attached property image
+		//addded property image
 		public static readonly BindableProperty ImageProperty =
 			BindableProperty.Create(nameof(Image), typeof(string), typeof(CustomPicker), string.Empty);
 		public string Image
