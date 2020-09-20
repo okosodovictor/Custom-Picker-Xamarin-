@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XzYjs4wCNjoOSxfx4YW2VPBqNp+FcFexxFPv+QADls/ExdmvNLwIGoO6GItag54tTYH844nq/YTVCT2C/U/fLw==",
+  "success": true,
+  "projectFilePath": "C:\\XamarinPluralsight\\CustomPicker\\CustomPicker\\CustomPicker.iOS\\CustomPicker.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

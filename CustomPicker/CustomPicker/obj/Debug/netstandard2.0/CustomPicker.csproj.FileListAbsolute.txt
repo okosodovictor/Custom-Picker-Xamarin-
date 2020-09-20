@@ -1,0 +1,14 @@
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\bin\Debug\netstandard2.0\CustomPicker.deps.json
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\bin\Debug\netstandard2.0\CustomPicker.dll
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\bin\Debug\netstandard2.0\ref\CustomPicker.dll
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\bin\Debug\netstandard2.0\CustomPicker.pdb
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\obj\Debug\netstandard2.0\CustomPicker.csprojAssemblyReference.cache
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\obj\Debug\netstandard2.0\CustomPicker.AssemblyInfoInputs.cache
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\obj\Debug\netstandard2.0\CustomPicker.AssemblyInfo.cs
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\obj\Debug\netstandard2.0\CustomPicker.csproj.CoreCompileInputs.cache
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\obj\Debug\netstandard2.0\CustomPicker.dll
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\obj\Debug\netstandard2.0\ref\CustomPicker.dll
+C:\XamarinPluralsight\CustomPicker\CustomPicker\CustomPicker\obj\Debug\netstandard2.0\CustomPicker.pdb
